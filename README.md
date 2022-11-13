@@ -4,7 +4,7 @@ Hi, my name is Gabriel Licar, and I am an amateur programmer. 👋
 
 - 🌱 I’m currently Learning Java
 - 📫 How to reach me: Discord.
-- 🥡 Contact my discord: Gab Licar#2445
+- 🥡 Contact my email: gabriel@nykoo.tech
 
 ```java
 public class Main {
