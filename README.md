@@ -2,7 +2,7 @@ Hi, my name is Gabriel Licar, and I am an amateur programmer. 👋
 <!--<img alt="GIF2" src="https://64.media.tumblr.com/395f09abca072bc566906b15b4942658/3ba8feb270efaa76-8d/s400x600/ca0ecc996f11bd7998d503b1761b96f4098e0ed5.gifv" width = 200/>-->
 <img alt="GIF2" src="./yorhello.gif" width = 300/>
 
-- 🌱 I’m currently Learning Back-end
+- 🌱 I’m currently Learning Java
 - 📫 How to reach me: Discord.
 - 🥡 Contact my email: gabriel@nykoo.tech
 
