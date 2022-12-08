@@ -15,11 +15,13 @@ public class Main {
 ```
 <div>
   <a href="https://ayo.so/nykoo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielLicar&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielLicar&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielLicar&show_icons=true&theme=monokaik&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielLicar&layout=compact&langs_count=7&theme=monokai"/>
 </div>
 
   <div style="display: inline_block"><br>
+      <img align="center" alt="Gab-Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+      <img align="center" alt="Gab-Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
 </div>
   
 ##
