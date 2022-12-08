@@ -15,7 +15,7 @@ public class Main {
 ```
 <div>
   <a href="https://ayo.so/nykoo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielLicar&show_icons=true&theme=monokaik&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielLicar&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielLicar&layout=compact&langs_count=7&theme=monokai"/>
 </div>
 
