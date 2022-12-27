@@ -1,29 +1,24 @@
-Hi, my name is Gabriel Licar, and I am an amateur programmer. 👋
-<!--<img alt="GIF2" src="https://64.media.tumblr.com/395f09abca072bc566906b15b4942658/3ba8feb270efaa76-8d/s400x600/ca0ecc996f11bd7998d503b1761b96f4098e0ed5.gifv" width = 200/>-->
-<img alt="GIF2" src="./yorhello.gif" width = 300/>
+# 💫 About Me:
+🌱 I’m currently Learning Java, HTML & CSS<br>📫 How to reach me: Discord.<br>🥡 Contact my email: gabriel@nykoo.tech
 
-- 🌱 I’m currently Learning Java, HTML & CSS
-- 📫 How to reach me: Discord.
-- 🥡 Contact my email: gabriel@nykoo.tech
 
-```java
-public class Main {
-    public static void main(String[] args) {
-      System.out.println("Hello, World");
-   }
-}
-```
-<div>
-  <a href="https://ayo.so/nykoo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielLicar&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielLicar&layout=compact&langs_count=7&theme=monokai"/>
-</div>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/FnTbDFpabf) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gaablicar) 
 
-  <div style="display: inline_block"><br>
-      <img align="center" alt="Gab-Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-      <img align="center" alt="Gab-Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-      <img align="center" alt="Gab-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-      <img align="center" alt="Gab-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-</div>
-  
-##
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=GabrielLicar&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=GabrielLicar&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielLicar&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=GabrielLicar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=GabrielLicar&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
