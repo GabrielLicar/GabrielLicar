@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently Learning Java, HTML & CSS<br>📫 How to reach me: Discord.<br>🥡 Contact my email: gabriel@nykoo.tech
+🌱 I’m currently Learning  Front-End<br>📫 How to reach me: Discord.<br>🥡 Contact my email: gabriel@nykoo.tech
 
 
 ## 🌐 Socials:
