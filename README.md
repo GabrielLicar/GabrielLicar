@@ -1,5 +1,5 @@
 # 💫 About Me:
-Frontend Student | Beginner in Programming
+## Frontend Student | Beginner in Programming
 
 👋 Hello! I'm Gabriel Licar, an enthusiast eagerly diving into the world of frontend development and programming. Currently, I'm embarking on a learning journey, exploring the fundamental building blocks of web development such as HTML, CSS, and JavaScript.
 
