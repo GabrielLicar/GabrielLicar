@@ -1,6 +1,15 @@
 # 💫 About Me:
-🌱 I’m currently Learning  Front-End<br>📫 How to reach me: Discord.<br>🥡 Contact my email: gabriel@nykoo.tech
+Frontend Student | Beginner in Programming
 
+👋 Hello! I'm Gabriel Licar, an enthusiast eagerly diving into the world of frontend development and programming. Currently, I'm embarking on a learning journey, exploring the fundamental building blocks of web development such as HTML, CSS, and JavaScript.
+
+💻 I'm excited to expand my skills and delve into new technologies like React, Next.js, and TypeScript. My passion for crafting appealing and interactive interfaces fuels my path as a frontend developer.
+
+🌱 I'm committed to continuous learning and applying what I learn through small personal projects. I'm open to collaborations and opportunities to learn from more experienced developers.
+
+🚀 Besides my programming interests, I also enjoy exploring various knowledge domains and discovering how technology can be creatively applied. I believe that curiosity and dedication are key to personal and professional growth.
+
+📫 If you're also starting out on this journey or have any tips to share, I'd be happy to chat. Let's learn together and build an amazing digital future!
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/FnTbDFpabf) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gaablicar) 
